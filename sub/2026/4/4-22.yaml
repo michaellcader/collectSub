@@ -1,32 +1,30 @@
 clash订阅:
-- https://sni.111000.dynv6.net/sub
-- https://proxypool.dmit.dpdns.org/clash/proxies
-- https://sni.111000.dynv6.net/sub?clash
-- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 - https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
+- https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+- https://proxypool.dmit.dpdns.org/clash/proxies
+- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://sni.111000.dynv6.net/sub
+- https://sni.111000.dynv6.net/sub?clash
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 v2订阅:
 - https://iuiu.lovebabyforever.workers.dev/
 开心玩耍:
-- 可用流量:21048.4 GB                    https://aoe.o.eoa.ccwu.cc/o
-- 可用流量:483.01 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=26cb48926655cda677b068c4d212108d
-- 可用流量:124.77 GB                    https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4
-- 可用流量:79.06 GB                    https://z.kukeyun.cc/s/eca8cd2495356f044961e82b7411aba7
-- 可用流量:178.81 GB                    https://zhuzhuzhu.whtjdasha.com/dazhutou/63ab4183176594b550df3c597f82d36b
-- 可用流量:84.49 GB                    https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf975ea5791b40b0e4a
-- 可用流量:575.0 GB                    https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
-- 可用流量:1073.97 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
-- 可用流量:196.96 GB                    https://47.242.128.61:5000/api/v1/client/subscribe?token=41975f235b608d3953afc06cddaa843f
+- 可用流量:18350.04 GB                    https://aoe.o.eoa.ccwu.cc/o
+- 可用流量:21.47 GB                    https://47.242.128.61:5000/api/v1/client/subscribe?token=41975f235b608d3953afc06cddaa843f
+- 可用流量:564.72 GB                    https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
+- 可用流量:71.87 GB                    https://z.kukeyun.cc/s/eca8cd2495356f044961e82b7411aba7
+- 可用流量:396.89 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=26cb48926655cda677b068c4d212108d
+- 可用流量:39.44 GB                    https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4
+- 可用流量:1066.28 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
 机场订阅:
-- https://zhuzhuzhu.whtjdasha.com/dazhutou/63ab4183176594b550df3c597f82d36b
-- https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
-- https://z.kukeyun.cc/s/eca8cd2495356f044961e82b7411aba7
-- https://aoe.o.eoa.ccwu.cc/o
-- https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
-- https://47.112.97.173:5000/api/v1/client/subscribe?token=26cb48926655cda677b068c4d212108d
-- https://47.242.128.61:5000/api/v1/client/subscribe?token=41975f235b608d3953afc06cddaa843f
-- https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
 - https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4
 - https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf975ea5791b40b0e4a
+- https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
+- https://47.242.128.61:5000/api/v1/client/subscribe?token=41975f235b608d3953afc06cddaa843f
+- https://zhuzhuzhu.whtjdasha.com/dazhutou/63ab4183176594b550df3c597f82d36b
+- https://mojie.app/api/v1/client/subscribe?token=8f3d49f0e449452fa3c68b705ea125b8
+- https://aoe.o.eoa.ccwu.cc/o
+- https://z.kukeyun.cc/s/eca8cd2495356f044961e82b7411aba7
+- https://47.112.97.173:5000/api/v1/client/subscribe?token=26cb48926655cda677b068c4d212108d
+- https://47.112.97.173:5000/api/v1/client/subscribe?token=6eb40fad2c38da9644f2d74eb2fae757
